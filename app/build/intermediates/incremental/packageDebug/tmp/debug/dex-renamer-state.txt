@@ -1,0 +1,4 @@
+#Mon Sep 30 14:36:54 BRT 2024
+base.0=/Users/rodrigo.barbacovi/Downloads/Hello-Uber/Android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
